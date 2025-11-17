@@ -1,0 +1,7 @@
+{
+  "name": "AI Video Editor Studio",
+  "description": "A cutting-edge, AI-powered video editor that allows you to generate stunning videos from text prompts using Google's Gemini API. Features a professional-grade timeline, asset management, and an intuitive user interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
